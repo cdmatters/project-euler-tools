@@ -1,0 +1,7 @@
+#ignore .pyc
+*.pyc
+PE_init/*.pyc
+
+#ignore PE.db & images
+PE_init/PE.db
+PE_init/images
